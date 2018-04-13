@@ -7,3 +7,4 @@ data/citibike_arrivals/citibike_arrivals.csv
 data/citibike_departures/citibike_departures.csv
 data/subway_turnstiles/turnstile_usage_2016.csv
 data/subway_turnstiles/turnstile_usage_2017.csv
+*.pgw
