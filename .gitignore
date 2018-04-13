@@ -2,4 +2,4 @@
 .DS_Store
 archived/*
 *.ipynb_checkpoints
-data/citibike_stations/citibike_stations.dbf
+data/citibike_trips/*
