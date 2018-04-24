@@ -8,3 +8,4 @@ data/citibike_departures/citibike_departures.csv
 data/subway_turnstiles/turnstile_usage_2016.csv
 data/subway_turnstiles/turnstile_usage_2017.csv
 *.pgw
+data/origin_destination_employment/LODES_NYC.csv
